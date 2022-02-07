@@ -9,11 +9,12 @@ body{
 
 
 #add {
-  border-radius: 2px;
+  border-radius: 5px;
    width: 50px;
    height: 20px;
-   background-color: black;
-   color: white;
+   background-color: turquoise;
+   /* border-radius: 5px; */
+   color: whitesmoke;
    display: flex;
    /* position: ; */
 }
@@ -23,6 +24,9 @@ body{
     margin-left: 100px;
     left: 100px;
     position:fixed;
+    background-color: turquoise;
+    border-radius: 5px;
+    color: whitesmoke;
 }
 
 
